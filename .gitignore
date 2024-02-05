@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+.streamlit/secret.toml
 
 # Distribution / packaging
 .Python
