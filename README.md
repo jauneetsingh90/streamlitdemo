@@ -35,6 +35,9 @@ You're ready to run the app as follows:
 ```
 streamlit run app.py
 ```
+
+If you have csv data rin
+streamlit run app2.py
 In addition to the pre-loaded content, a user can add additional content that will be used as context for prompts.
 
 ## Deploy to the internet
